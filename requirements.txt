@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+matplotlib
+geopandas
+folium
+streamlit-folium # Necessário para exibir mapas Folium no Streamlit
